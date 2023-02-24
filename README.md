@@ -1,13 +1,34 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+#  Mysql All For One  <img align="center" alt="Faby-Mysql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## :memo: Descrição
+<p>Projeto Mysql All For One foi desenvolvido para colocar em prática todos os principais conceitos de SQL utilizando o banco de dados Northwind</p>
+
+```sql
+SELECT * FROM northwind.orders;
+```
+
+## :books: Objetivos do Projeto: 
+
+ Reforçar os conceitos introdutórios e praticar  os principais comandos básicos de SQL
+  
+  <b>Objetivo proposto :</b>
+  
+* Compreender o que é uma query SQL
+
+* Realizar busca de dados em um banco de dados
+
+* Filtrar dados
+
+* Manipular tabelas
+  
+
+## :wrench: Tecnologias utilizadas
+  
+* Docker
+  
+* Mysql 
+
+* MySQL Workbench
+
+
